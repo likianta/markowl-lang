@@ -1,7 +1,3 @@
----
-blog_link: https://blog.csdn.net/Likianta/article/details/124510739
----
-
 # MarkOwl Language | 一种新的轻量级文本标记语言
 
 > English document is under construction.
@@ -497,7 +493,7 @@ blog_link: https://blog.csdn.net/Likianta/article/details/124510739
 
 - 示例:
 
-    标题 (无序号):
+    标题 (没有自带编号):
 
     ```
     [heading 1 :heading(1)]
@@ -513,7 +509,7 @@ blog_link: https://blog.csdn.net/Likianta/article/details/124510739
     ### heading 3
     ```
 
-    标题 (有序号):
+    标题 (有自带编号):
 
     ```
     [heading 1 :heading(1, true)]
